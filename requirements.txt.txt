@@ -1,0 +1,6 @@
+@"
+numpy
+scipy
+pyserial
+vpython
+"@ | Set-Content requirements.txt
