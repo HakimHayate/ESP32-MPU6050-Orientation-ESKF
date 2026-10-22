@@ -31,7 +31,7 @@ An ESP32 reads the sensor measurements and sends them to Python through USB. VPy
 - Jumper wires
 - USB cable
 
-![Hardware](images/hardware.png)
+![Hardware](images/hardware.jpg)
 
 ### Wiring
 
